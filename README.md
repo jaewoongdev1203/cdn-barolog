@@ -1,0 +1,1 @@
+## Copyright (c) 2019 BARO INTERACTIVE. All rights reserved.
